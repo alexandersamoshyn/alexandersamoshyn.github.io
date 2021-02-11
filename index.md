@@ -9,10 +9,8 @@ Diese Seite ist in Bearbeitung, weswegen die Webseite einige Fehler aufweist.
 
 # Über mich
 
-	
-
 <p align="center">
-  <img width="460" height="300" src=![Bild](https://user-images.githubusercontent.com/77727815/107643352-4edd5180-6c76-11eb-9ebc-abec57388313.jpg){:height="60%" width="60%"}>
+  <img width="100" height="100" src="https://user-images.githubusercontent.com/77727815/107643352-4edd5180-6c76-11eb-9ebc-abec57388313.jpg/100/100">
 </p>
 
 
