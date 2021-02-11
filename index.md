@@ -40,7 +40,7 @@ Moin, ich bin Alexander, 16 Jahre alt und zurzeit gehe ich noch zur Schule. Zu m
 
 > dreiwöchiges Praktikum bei [Fraunhofer IGP Rostock](https://www.igp.fraunhofer.de) als Programmierer 
 >
-> einwöchiges Praktikum bei [MediaMarkt, Brinckmannsdorf](https://www.mediamarkt.de/markt/rostock-brinckmansdorf) als Kaufmann im Einzelhandel
+> einwöchiges Praktikum bei [MediaMarkt, Brinckmansdorf](https://www.mediamarkt.de/markt/rostock-brinckmansdorf) als Kaufmann im Einzelhandel
 
 
 ## Kontakt
