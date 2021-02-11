@@ -2,9 +2,14 @@
 layout: default
 ---
 
+```
+Diese Seite ist in **Bearbeitung**, weswegen die Webseite auf einige Fehler aufweist.
+```
+
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Dies ist ein Link zu meinem GitHub Repository](https://github.com/alexandersamoshyn/alexandersamoshyn.github.io).
 
 There should be whitespace between paragraphs.
 
