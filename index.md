@@ -9,7 +9,7 @@ Diese Seite ist in Bearbeitung, weswegen die Webseite auf einige Fehler aufweist
 
 # Über mich
 
-![Bild](https://user-images.githubusercontent.com/77727815/107643352-4edd5180-6c76-11eb-9ebc-abec57388313.jpg)
+![Bild](https://user-images.githubusercontent.com/77727815/107643352-4edd5180-6c76-11eb-9ebc-abec57388313.jpg){:height="50%" width="50%"} 	
 
 
 Moin, ich bin Alexander, 16 Jahre alt und zurzeit gehe ich noch zur Schule. Zu meinen Freizeitaktivitäten gehört der Kraftsport und das das Entwickeln und Programmieren von diversen technischen Dingen.
