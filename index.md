@@ -47,7 +47,7 @@ Moin, ich bin Alexander, 16 Jahre alt und zurzeit gehe ich noch zur Schule. Zu m
 
 ## Kontakt
 
-Falls Sie Probleme, Fragen oder Vorschläge haben, [senden sie mir gerne eine E-Mail](alexander.samoshyn@icloud.com).
+Falls Sie Probleme, Fragen oder Vorschläge haben, [senden sie mir gerne eine E-Mail](email: alexander.samoshyn@icloud.com).
 
 Für mehr Informationen über diese Webseite, besuchen Sie gerne mein [GitHub Repository](https://github.com/alexandersamoshyn/alexandersamoshyn.github.io).
 
