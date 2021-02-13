@@ -3,7 +3,7 @@ layout: default
 ---
 
 ```
-Diese Seite ist in Bearbeitung, weswegen sie  einige Fehler aufweist.
+Diese Seite ist in Bearbeitung, weswegen sie einige Fehler aufweist.
 ```
 
 
