@@ -10,24 +10,24 @@ Diese Seite ist in Bearbeitung, weswegen die Webseite einige Fehler aufweist.
 # Über mich
 
 <p align="center">
-  <img width="400" height="510" src="https://user-images.githubusercontent.com/77727815/107643352-4edd5180-6c76-11eb-9ebc-abec57388313.jpg">
+  <img width="350" height="460" src="https://user-images.githubusercontent.com/77727815/107643352-4edd5180-6c76-11eb-9ebc-abec57388313.jpg">
 </p>
 
 
-Moin, ich bin Alexander, 16 Jahre alt und zurzeit gehe ich noch zur Schule. Zu meinen Freizeitaktivitäten gehört der Kraftsport und das das Entwickeln und Programmieren von diversen technischen Dingen.
+Moin, ich bin Alexander, 16 Jahre alt und besuche zurzeit die 10.Klasse. Zu meinen Freizeitaktivitäten gehört der Kraftsport und das Entwickeln sowie das Programmieren von diversen technischen Komponenten.
 
 
 ## Kompetenzen
 
-  _Sprachen_
+  _Sprachkenntnisse_
 
 
 *   Deutsch (Muttersprache)
-*   Russisch (Muttersprache)
-*   Englisch (seit der 3. Klasse)
-*   Spanisch (seit der 7. Klasse)
+*   Russisch (Grundkenntnisse)
+*   Englisch (Gute Fremdsprachenkentnisse)
+*   Spanisch (Grundkenntnisse)
 
-  _technische Kenntnisse_
+  _Technische Kenntnisse_
 
 *   MS Office
 *   Terminalemulator
@@ -47,7 +47,8 @@ Moin, ich bin Alexander, 16 Jahre alt und zurzeit gehe ich noch zur Schule. Zu m
 
 ## Kontakt
 
-Falls Sie Probleme, Fragen oder Vorschläge haben, [senden sie mir gerne eine E-Mail](email: alexander.samoshyn@icloud.com).
+Falls Sie Fragen zu mir, Probleme mit der Webseite oder Verbesserungsvorschläge
+jeglicher Art haben, [senden Sie mir gerne eine E-Mail](email: alexander.samoshyn@icloud.com).
 
 Für mehr Informationen über diese Webseite, besuchen Sie gerne mein [GitHub Repository](https://github.com/alexandersamoshyn/alexandersamoshyn.github.io).
 
