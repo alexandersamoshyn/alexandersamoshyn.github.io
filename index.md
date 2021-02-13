@@ -3,7 +3,7 @@ layout: default
 ---
 
 ```
-Diese Seite ist in Bearbeitung, weswegen die Webseite einige Fehler aufweist.
+Diese Seite ist in Bearbeitung, weswegen sie  einige Fehler aufweist.
 ```
 
 
@@ -40,7 +40,7 @@ Moin, ich bin Alexander, 16 Jahre alt und besuche zurzeit die 10.Klasse. Zu mein
 
 ## Praktische Erfahrungen 
 
-> dreiwöchiges Praktikum bei [Fraunhofer IGP Rostock](https://www.igp.fraunhofer.de) als Programmierer 
+> dreiwöchiges Praktikum bei [Fraunhofer IGP Rostock](https://www.igp.fraunhofer.de) als Programmierer
 >
 > einwöchiges Praktikum bei [MediaMarkt, Brinckmansdorf](https://www.mediamarkt.de/markt/rostock-brinckmansdorf) als Kaufmann im Einzelhandel
 
@@ -48,7 +48,7 @@ Moin, ich bin Alexander, 16 Jahre alt und besuche zurzeit die 10.Klasse. Zu mein
 ## Kontakt
 
 Falls Sie Fragen zu mir, Probleme mit der Webseite oder Verbesserungsvorschläge
-jeglicher Art haben, [senden Sie mir gerne eine E-Mail](email: alexander.samoshyn@icloud.com).
+jeglicher Art haben, [senden Sie mir gerne eine E-Mail](mailto:alexander.samoshyn@icloud.com).
 
 Für mehr Informationen über diese Webseite, besuchen Sie gerne mein [GitHub Repository](https://github.com/alexandersamoshyn/alexandersamoshyn.github.io).
 
