@@ -10,7 +10,7 @@ Diese Seite ist in Bearbeitung, weswegen sie einige Fehler aufweist.
 # Über mich
 
 <p align="center">
-  <img width="360" height="470" src="https://user-images.githubusercontent.com/77727815/107643352-4edd5180-6c76-11eb-9ebc-abec57388313.jpg">
+  <img width="360" height="485" src="https://user-images.githubusercontent.com/77727815/107643352-4edd5180-6c76-11eb-9ebc-abec57388313.jpg">
 </p>
 
 
