@@ -14,7 +14,7 @@ Diese Seite ist in Bearbeitung, weswegen sie einige Fehler aufweist.
 </p>
 
 
-Moin, ich bin Alexander, 16 Jahre alt und ich besuche zurzeit die 10. Klasse. Zu meinen Freizeitaktivitäten gehört der Kraftsport und das Entwickeln sowie das Programmieren von diversen technischen Komponenten.
+Moin, ich bin Alexander, 17 Jahre alt und ich besuche zurzeit die 10. Klasse. Zu meinen Freizeitaktivitäten gehört der Kraftsport und das Entwickeln sowie das Programmieren von diversen technischen Komponenten.
 
 
 ## Kompetenzen
